@@ -1,6 +1,22 @@
 # 🎬 QuickTix – Movie Ticket Booking System
 
 A responsive movie ticket booking website built using HTML, CSS and JavaScript. QuickTix allows users to explore movies, select cinema locations, choose showtimes and seats, and manage their bookings through a simple interface.
+## 📸 Project Screenshots
+
+### Homepage
+![QuickTix Homepage](screenshots/homepage.png)
+
+### Movie Details
+![Movie Details](screenshots/movie-details.png)
+
+### Seat Selection
+![Seat Selection](screenshots/seat-selection.png)
+
+### Booking Confirmation
+![Booking Confirmation](screenshots/booking-confirmation.png)
+
+### Digital Ticket with QR Code
+![Digital Ticket](screenshots/qr-ticket.png)
 
 ## ✨ Features
 
